@@ -1,0 +1,13 @@
+C:\Users\djbri\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Arena.exe
+C:\Users\djbri\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Arena.deps.json
+C:\Users\djbri\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Arena.runtimeconfig.json
+C:\Users\djbri\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Arena.runtimeconfig.dev.json
+C:\Users\djbri\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Arena.dll
+C:\Users\djbri\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Arena.pdb
+C:\Users\djbri\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\Arena.AssemblyInfoInputs.cache
+C:\Users\djbri\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\Arena.AssemblyInfo.cs
+C:\Users\djbri\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\Arena.csproj.CoreCompileInputs.cache
+C:\Users\djbri\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\Arena.dll
+C:\Users\djbri\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\Arena.pdb
+C:\Users\djbri\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\Arena.genruntimeconfig.cache
+C:\Users\djbri\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\Arena.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HsSW3l20uMWqX2jjhfsgGL5lDF96mTbUKxP6xsEyqvk+MbGaehH20cMZkApgKFd5ECAq9ldy3RlqzNl4jrJC8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\djbri\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Arena.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\djbri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
